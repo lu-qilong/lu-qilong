@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Qilong Lu
+# 👋 Hi, I'm QiLong Lu
 
 🎓 Ph.D. Student in Statistics @ Peking University  
 👨‍🏫 Ph.D. Supervisor: Prof. Song Xi Chen  
