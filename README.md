@@ -30,7 +30,7 @@ Check out my repositories to see what I'm working on!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lu-qilong&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lu-qilong&show_icons=true)
 
 ---
 
