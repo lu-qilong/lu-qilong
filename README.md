@@ -2,7 +2,7 @@
 
 🎓 Ph.D. Student in Statistics @ Peking University  
 📚 Research areas: Differential Privacy, Statistical Learning, High-dimensional Inference  
-📫 Email: qilong_lu@stu.pku.edu.cn
+📫 Email: qilong_lu@stu.pku.edu.cn  
 🐦 Twitter (X): [@qilonglu](https://x.com/qilonglu)  
 🔗 GitHub: [lu-qilong](https://github.com/lu-qilong)
 
