@@ -1,7 +1,6 @@
 # 👋 Hi, I'm QiLong Lu
 
 🎓 Ph.D. Student in Statistics @ Peking University  
-👨‍🏫 Ph.D. Supervisor: Prof. Song Xi Chen  
 📚 Research areas: Differential Privacy, Statistical Learning, High-dimensional Inference  
 📫 Email: lu_qilong@stu.pku.edu.cn  
 🐦 Twitter (X): [@qilonglu](https://x.com/qilonglu)  
