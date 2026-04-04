@@ -11,8 +11,8 @@
 ## 📄 Publications
 - **Versatile Differentially Private Learning for General Loss Functions**  
   *Qilong Lu, Song Xi Chen, Yumou Qiu*  
-  _Annals of Statistics_, 2025. To appear.  
-  [📘 Paper Link](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/) ｜ [🎓 NeurIPS 2025 Poster]
+  _Annals of Statistics 54 (2), 692-717.  
+  [📘 Paper Link](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-2/Versatile-differentially-private-learning-for-general-loss-functions/10.1214/25-AOS2583.full) ｜ [🎓 NeurIPS 2025 Poster]
 
 ---
 
